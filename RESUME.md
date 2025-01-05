@@ -3,7 +3,7 @@
 
 #### System Administrator, Charlotte, North Carolina
 **Date**: June 2019 - Present  
-**Company Name**: _ALLSTATE_  
+**Company Name**: _A LLSTAT E_  
 **Technology Used**: 
 - VMWARE
 - NUTANIX
