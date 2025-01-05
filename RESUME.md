@@ -38,7 +38,7 @@
 
 ### Side Projects
 
-#### Art Gallery System Admin
+#### Art Gallery - System Admin
 **Date**: November 2024 - Present  
 **Technology Used**:
 - UBIQUITI PRODUCTS
