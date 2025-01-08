@@ -5,6 +5,7 @@
 **Date**: June 2019 - Present  
 **Company Name**: _A LLSTAT E_  
 **Technology Used**: 
+- WIN OS xp/7/8/10/11
 - VMWARE
 - NUTANIX
 - Dell PowerEdge
@@ -15,10 +16,12 @@
 - POWERSHELL
 - QUALYS
 
+
 #### System Administrator, Charlotte, North Carolina
 **Date**: April 2014 - June 2019  
 **Company Name**: _CARDINAL INNOVATIONS_  
 **Technology Used**:
+- WIN OS xp/7/8/10/11
 - VMWARE
 - NUTANIX
 - PDQDEPLOY
